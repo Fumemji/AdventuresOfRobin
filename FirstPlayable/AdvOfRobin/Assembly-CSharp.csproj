@@ -81,11 +81,11 @@
      <None Include="Assets\GracesGames\2DTileMapLevelEditor\Sprites\Kenney\Platformer Pack\License.txt" />
      <None Include="Assets\GracesGames\SimpleFileBrowser\DemoFiles\DemoText.txt" />
      <None Include="Assets\GracesGames\2DTileMapLevelEditor\ReadMe.txt" />
- <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/eud17/Documents/GitHub/AdventuresOfRobin/FirstPlayable/AdvOfRobin/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
- </Reference>
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/eud17/Documents/GitHub/AdventuresOfRobin/FirstPlayable/AdvOfRobin/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.PackageManagerUI.Editor">
+ <HintPath>C:/Users/eud17/Documents/GitHub/AdventuresOfRobin/FirstPlayable/AdvOfRobin/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
